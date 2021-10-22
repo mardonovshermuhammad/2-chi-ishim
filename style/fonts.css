@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'l-blak';
+    src: url('../fonts/lato/Lato-Black.ttf');
+}
+@font-face {
+    font-family: 'l-bold';
+    src: url('../fonts/lato/Lato-Bold.ttf');
+}
+@font-face {
+    font-family: 'p-regular';
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'p-medium';
+    src: url('../fonts/Poppins/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'l-regular';
+    src: url('../fonts/lato/Lato-Regular.ttf');
+}
